@@ -1,4 +1,4 @@
-#csc322-Project4
+# csc322-Project4
 Simple Unix shell program that supports job control in C.
 
 Your tsh shell should have the following features:
